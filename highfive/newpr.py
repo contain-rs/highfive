@@ -366,7 +366,7 @@ if __name__ == "__main__":
     cgitb.enable()
 
     config = ConfigParser.RawConfigParser()
-    config.read('./config')
+    config.read('../config')
     user = config.get('github', 'user')
     token = config.get('github', 'token')
 
