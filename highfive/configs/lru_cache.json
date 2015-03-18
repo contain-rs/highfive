@@ -1,7 +1,5 @@
 {
     "groups": {
         "all": ["core"]
-    },
-    "dirs": {
     }
 }
