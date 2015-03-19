@@ -1,5 +1,11 @@
 {
     "groups": {
-        "core": ["@Gankro"]
+        "core": [
+            "@Gankro",
+            "@reem",
+            "@huonw",
+            "@apasel422",
+            "@cgaebel"
+        ]
     }
 }
